@@ -3,7 +3,6 @@ def countdown(n)
 while n > 0
 puts "n SECONDS!"
 n-=
-binding.pry
 end
 
 
